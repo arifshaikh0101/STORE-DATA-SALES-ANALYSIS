@@ -58,4 +58,5 @@ Age & Gender Table – PivotTable to analyze audience segments<br>
 ✅ Helps the business team focus on customer targeting and reduce cancellations<br>
 
 ### Screenshots
-Dashboard Preview (https://github.com/arifshaikh0101/STORE-DATA-SALES-ANALYSIS/blob/main/Store%20Data%20Analysis.png)
+![Dashboard Preview](https://github.com/arifshaikh0101/STORE-DATA-SALES-ANALYSIS/blob/main/Store%20Data%20Analysis.png)
+
